@@ -52,8 +52,8 @@ This project lets you:
 
 ##  Live Links
 
-React - 
+React - https://navigation-react-fth.vercel.app
 
-Vue - 
+Vue - https://navigation-vue-fth.vercel.app
 
 ---

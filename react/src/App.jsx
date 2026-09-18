@@ -15,8 +15,6 @@ function App() {
     <Route path='/Project' element={<Project/>} />
       </Routes>
       
-      <Home />
-      
     </>
   )
 }
